@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.table {
+  width: 100%;
+  border: 2px;
+  border-color: black;
+  border-style: ridge;
+}
+
+tr {
+  border: 2px;
+  border-color: black;
+  border-style: ridge;
+}
